@@ -1,0 +1,23 @@
+img{
+    
+     float: left;
+      width:  404px;
+      height: 400px;
+      object-fit: cover;
+    
+}
+.nav{
+    color-scheme: rgb(114, 37, 37);
+    font-size: larger;
+}
+body{
+    background-color: burlywood;
+}
+.navbar-custom {
+    background-color: #adf2bd; /* Remplace avec la couleur de ton choix */
+  }
+  .card{
+    float: left;
+    padding: 16px;
+    text-align: center;
+}
